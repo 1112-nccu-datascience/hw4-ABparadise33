@@ -2,7 +2,7 @@
 
 #### Name: [張翊鞍]
 #### Student ID: [108304004]
-#### ShinyApps link: [<https://yourname.shinyapps.io/NCCU_DS2023_hw4_108304004/>]
+#### ShinyApps link: [<https://ABparadise33.shinyapps.io/NCCU_DS2023_hw4_108304004/>]
 
 ## Description
 
