@@ -58,7 +58,7 @@ library(shiny)
 runApp("110753xxx")
 ```
 Then, you can see the following screen, and there is a `publish` button in the upper right corner, click it to upload the website.
-Please note that you need to make sure your title conforms to the format → `NCCU_DS2023_hw4_studendID`
+Please note that you need to make sure your title conforms to the format → `NCCU_DS2023_hw4_108304004`
 
 <p align="center">
  <img src="/images/shinyapp_on_rstudio_2.png" width="60%" height="60%" >
