@@ -2,6 +2,7 @@
 library(shiny)
 library(factoextra)
 library(FactoMineR)
+library(ggbiplot)
 library(ggplot2)
 
 # 定義PCA的函式
@@ -26,7 +27,7 @@ performCA <- function(species) {
 # 定義Shiny UI
 ui <- fluidPage(
   navbarPage(
-    title = "張翊鞍 統計四 108304004",
+    title = "108304004 統計四 張翊鞍",
     tabPanel(
       "PCA",
       fluidRow(
